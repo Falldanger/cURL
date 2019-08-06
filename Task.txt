@@ -1,0 +1,6 @@
+Work with cURL
+
+Take any online store, for example, with laptops.
+Using cURL, as well as regular expressions, you will get data on 100 laptops (most likely, you will have to navigate the pages on the site). Required data: model, price, operating system.
+Save all this data in a text file.
+Note: This is a fairly difficult exercise, but insanely useful. It will teach you to correctly parse sites and collect the necessary information from them, as well as save it for later analysis and use.
